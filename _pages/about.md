@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: treehouse
 permalink: /
 subtitle: BS-MS, IISER Mohali | Masters Student at MPI Tübingen | Monkey
 
