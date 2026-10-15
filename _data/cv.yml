@@ -23,23 +23,24 @@ cv:
 
         
   sections:
-  Education:
+
+    sections:
+    education:
       - institution: Indian Institute of Science Education and Research Mohali
         location: Mohali, India
         url: https://www.iisermohali.ac.in
-        area: Biology
+        area: Biology (major), Data Science (minor)
         studyType: BS-MS
         start_date: 2022
         end_date: 2027
-        score: ""
-        
-      Experience:
+
+    research:
       - company: Friedrich Miescher Laboratory of the Max Planck Society
-        position: Masters Thesis
+        position: Master's Thesis
         location: Tübingen, Germany
         start_date: 2026-06
         end_date: 2027-03
-        summary: "Master's thesis on self-organizing protein systems in the [Ramm Lab](https://lab-website.com)"
+        summary: Masters thesis at the [Ramm Lab](https://lab-website.com)
         highlights:
           - IISER-MPG program
 
@@ -48,31 +49,18 @@ cv:
         location: Thiruvananthapuram, India
         start_date: 2025-05
         end_date: 2025-07
-        
-    
-      - company: Jawaharlal Nehru Centre for Advanced Scientific Research 
+
+      - company: Jawaharlal Nehru Centre for Advanced Scientific Research
         position: Summer Intern under Prof. TNC Vidya
         location: Bengaluru, India
         start_date: 2024-05
         end_date: 2024-07
 
-      - company: Indian Institute of Science Education and Research
+      - company: IISER Mohali
         position: Summer Intern under Prof. Lolitika Mandal
         location: Mohali, India
         start_date: 2023-05
         end_date: 2023-07
-
-  
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
 
     # Awards:
     #   - title: Nobel Prize in Physics
@@ -115,47 +103,47 @@ cv:
     #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Skills:
+    #   - name: Physics
+    #     level: Master
+    #     icon: fa-solid fa-hashtag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    # Languages:
+    #   - name: German
+    #     summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+    #   - name: English
+    #     summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    # Interests:
+    #   - name: Physics
+    #     icon: fa-solid fa-tag
+    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
 
    
