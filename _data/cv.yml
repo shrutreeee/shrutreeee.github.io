@@ -1,9 +1,9 @@
 cv:
   name: Shruti Swaminathan
-  label: ""
+  # label: ""
   email: shruti.swaminathan20@gmail.com
-  location: ""
-  image: ""
+  # location: ""
+  # image: ""
   #summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   # social_networks:
@@ -21,8 +21,9 @@ cv:
   #   postalCode: CA 94115
   #   countryCode: US
 
+        
   sections:
-    Education:
+  Education:
       - institution: Indian Institute of Science Education and Research Mohali
         location: Mohali, India
         url: https://www.iisermohali.ac.in
@@ -31,83 +32,63 @@ cv:
         start_date: 2022
         end_date: 2027
         score: ""
-        # courses: "Theory of Relativity"
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
-
-      # - institution: Eidgenössische Technische Hochschule
-      #   location: Zurich, Switzerland
-      #   area: Physics
-      #   studyType: Federal teaching diploma
-      #   start_date: 1896
-      #   end_date: 1900
-      #   highlights:
-      #     - Description 1.
-      #     - Description 2.
-
-    Experience:
+        
+      Experience:
       - company: Friedrich Miescher Laboratory of the Max Planck Society
         position: Masters Thesis
-        location:Tübingen, Germany
-        start_date: June 2026
-        end_date: March 2027
-        summary: Masters Thesis working on self-organizing protein systems at the [Ramm Lab](https://lab-website.com)
+        location: Tübingen, Germany
+        start_date: 2026-06
+        end_date: 2027-03
+        summary: "Master's thesis on self-organizing protein systems in the [Ramm Lab](https://lab-website.com)"
+        highlights:
           - IISER-MPG program
 
       - company: IISER Thiruvananthapuram
-        position: Summer Intern
-        location: Thiruvananthapuram, Kerala
-        start_date: May 2025
-        end_date: July 2025
-        summary:
-          - Description 1.
-          - Description 2.
+        position: Summer Intern under Dr. Yashraj Chavhan
+        location: Thiruvananthapuram, India
+        start_date: 2025-05
+        end_date: 2025-07
+        
+    
+      - company: Jawaharlal Nehru Centre for Advanced Scientific Research 
+        position: Summer Intern under Prof. TNC Vidya
+        location: Bengaluru, India
+        start_date: 2024-05
+        end_date: 2024-07
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Indian Institute of Science Education and Research
+        position: Summer Intern under Prof. Lolitika Mandal
+        location: Mohali, India
+        start_date: 2023-05
+        end_date: 2023-07
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+  
+    # Volunteer:
+    #   - company: People's Climate March
+    #     position: Lead Organizer
+    #     location: Zurich, Switzerland
+    #     start_date: 2014-04-01
+    #     end_date: 2015-07-01
+    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #     highlights:
+    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #       - "Men of the year 2014 by Time magazine"
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+    # Awards:
+    #   - title: Nobel Prize in Physics
+    #     authors:
+    #       - "Royal Swedish Academy of Sciences"
+    #     date: 1921-11-01
+    #     awarder: Royal Swedish Academy of Sciences
+    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    #   - title: Max Planck Medal
+    #     authors:
+    #       - "German Physical Society"
+    #     date: 2029
+    #     awarder: German Physical Society
+    #     summary: Awarded for outstanding scientific achievement
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -177,11 +158,4 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+   
