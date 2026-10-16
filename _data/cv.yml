@@ -3,7 +3,7 @@ cv:
   email: shruti.swaminathan20@gmail.com
 
   sections:
-    education:
+    Education:
       - institution: Indian Institute of Science Education and Research Mohali
         location: Mohali, India
         url: https://www.iisermohali.ac.in
@@ -12,7 +12,7 @@ cv:
         start_date: 2022
         end_date: 2027
 
-    research:
+    Experience:
       - company: Friedrich Miescher Laboratory of the Max Planck Society
         position: Masters Thesis
         location: Tübingen, Germany
