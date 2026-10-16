@@ -2,39 +2,40 @@ cv:
   name: Shruti Swaminathan
   email: shruti.swaminathan20@gmail.com
 
-education:
-  institution: Indian Institute of Science Education and Research Mohali
-  location: Mohali, India
-  url: https://www.iisermohali.ac.in
-  area: Biology (major), Data Science (minor)
-  studyType: BS-MS
-  start_date: 2022
-  end_date: 2027
+  sections:
+    Education:
+      - institution: Indian Institute of Science Education and Research Mohali
+        location: Mohali, India
+        url: https://www.iisermohali.ac.in
+        area: Biology (major), Data Science (minor)
+        studyType: BS-MS
+        start_date: 2022
+        end_date: 2027
 
- research:
-   - institution: Friedrich Miescher Laboratory of the Max Planck Society
-     position: Masters Thesis 
-     location: Tübingen, Germany
-     start_date: 2026-06
-     end_date: 2027-03
-     summary: Playing around with self-organizing protein systems at the [Ramm Lab](https://lab-website.com)
-     highlights: IISER-MPG program
-     
-  - institution: IISER Thiruvananthapuram
-     position: Summer Intern under Dr. Yashraj Chavhan
-     location: Thiruvananthapuram, India
-     start_date: 2025-05
-     end_date: 2025-07
-     
-  - institution: Jawaharlal Nehru Centre for Advanced Scientific Research
-     position: Summer Intern under Prof. TNC Vidya
-     location: Bengaluru, India
-     start_date: 2024-05
-     end_date: 2024-07
+    Experience:
+      - company: Friedrich Miescher Laboratory of the Max Planck Society
+        position: Master's Thesis
+        location: Tübingen, DE
+        start_date: 2026-06
+        end_date: 2027-03
+        summary: "Playing around with self-organizing protein systems at the [Ramm Lab](https://lab-website.com)"
+        highlights:
+          - IISER-MPG program
 
-  - institution: IISER Mohali
-     position: Summer Intern under Prof. Lolitika Mandal
-     location: Mohali, India
-     start_date: 2023-05
-     end_date: 2023-07
+      - company: IISER Thiruvananthapuram
+        position: Summer Intern under Dr. Yashraj Chavhan
+        location: Trivandrum, IN
+        start_date: 2025-05
+        end_date: 2025-07
 
+      - company: Jawaharlal Nehru Centre for Advanced Scientific Research
+        position: Summer Intern under Prof. TNC Vidya
+        location: Bengaluru, IN
+        start_date: 2024-05
+        end_date: 2024-07
+
+      - company: IISER Mohali
+        position: Summer Intern under Prof. Lolitika Mandal
+        location: Mohali, IN
+        start_date: 2023-05
+        end_date: 2023-07
